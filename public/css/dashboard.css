@@ -1,0 +1,31 @@
+body{
+
+    width: auto;
+    height: auto;
+
+}
+
+.upperSection{
+
+    border-style: solid;
+    border-color: rgb(173, 173, 173);
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px rgb(196, 196, 196);
+    padding: 20px;
+
+
+}
+
+.jobtrackerSection{
+
+    border-style: solid;
+    border-color: rgb(173, 173, 173);
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px rgb(196, 196, 196);
+    padding: 20px;
+
+}
+
+.pagination-container {
+    margin-top: 20px; /* Adjust as needed */
+}
